@@ -1,6 +1,5 @@
-number = int(input('Введите число: '))
-decimal = 0
-while number > 0:
-  decimal += 1
-  number = number // 10
-print(decimal)
+import task_1
+import task_2
+import task_3
+import task_4
+import task_5
